@@ -4,7 +4,7 @@
 
 DocsGPT is a cutting-edge documentation search and exploration tool that combines the power of LangChain and GPT technology to provide precise, context-aware answers from your documentation.
 
-![DocsGPT Architecture](frontend/src/assets/architecture.png)
+<img src="frontend/src/assets/architecture.png" alt="DocsGPT Architecture" style="width:100px;height:auto;">
 
 ## ✨ Features
 
@@ -17,7 +17,6 @@ DocsGPT is a cutting-edge documentation search and exploration tool that combine
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](frontend/src/assets/architecture.png)
 
 DocsGPT utilizes a sophisticated architecture consisting of:
 
