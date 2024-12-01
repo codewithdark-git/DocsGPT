@@ -109,7 +109,7 @@ const GetInTouch = () => {
             </p>
             <div className="flex justify-center space-x-6">
               <a
-                href="https://github.com/arc53/DocsGPT"
+                href="https://github.com/codewithdark-git/DocsGPT"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-purple-500 hover:bg-purple-600 rounded-lg text-white font-semibold transition-colors"

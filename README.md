@@ -17,6 +17,8 @@ DocsGPT is a cutting-edge documentation search and exploration tool that combine
 
 ## 🏗️ Architecture
 
+![Architecture Diagram](frontend/src/assets/architecture.png)
+
 DocsGPT utilizes a sophisticated architecture consisting of:
 
 1. **User Interface Layer**
@@ -51,7 +53,7 @@ DocsGPT utilizes a sophisticated architecture consisting of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arc53/DocsGPT.git
+   git clone https://github.com/codewitdark-git/DocsGPT.git
    cd DocsGPT
    ```
 

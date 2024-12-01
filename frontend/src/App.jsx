@@ -555,7 +555,7 @@ function App() {
                         <div className="social-links-title">Connect with us</div>
                         <div className="social-links">
                           <a
-                            href="https://github.com/arc53/DocsGPT"
+                            href="https://github.com/codewithdark-git/DocsGPT"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="social-link github"
@@ -567,7 +567,7 @@ function App() {
                             <span className="social-label">GitHub</span>
                           </a>
                           <a
-                            href="mailto:info@example.com"
+                            href="mailto:codewithdark90@gmail.com"
                             className="social-link mail"
                             aria-label="Email"
                           >
@@ -577,7 +577,7 @@ function App() {
                             <span className="social-label">Email</span>
                           </a>
                           <a
-                            href="https://linkedin.com/company/docsgpt"
+                            href="https://linkedin.com/in/codewithdark"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="social-link linkedin"
