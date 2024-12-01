@@ -116,7 +116,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📫 Get in Touch
 
-- GitHub: [codewitdark-git/DocsGPT](https://github.com/codewitdark-git/DocsGPT)
+- LinkedIn: [Codewithdark](https://www.linkedin.com/in/codewithdark/)
 - Email: [Codewithdark](mailto:codewithdark90@gmail.com)
 
 ## 📝 License
