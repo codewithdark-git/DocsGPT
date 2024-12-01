@@ -116,8 +116,8 @@ We welcome contributions! Please follow these steps:
 
 ## 📫 Get in Touch
 
-- GitHub: [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
-- Discord: [Join our community](https://discord.gg/n5BX5cqWqp)
+- GitHub: [codewitdark-git/DocsGPT](https://github.com/codewitdark-git/DocsGPT)
+- Email: [Codewithdark](mailto:codewithdark90@gmail.com)
 
 ## 📝 License
 
@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by the DocsGPT team
+Built with ❤️ by the Dark Coder team
