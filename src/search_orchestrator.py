@@ -70,9 +70,9 @@ class SearchOrchestrator:
                         verbose=True,
                         chain_type_kwargs={
                             "prompt": PromptTemplate(
-                                template="""You are a helpful technical documentation assistant. Use the following pieces of context to provide a detailed and accurate answer to the question.
-                                If the context doesn't contain enough information, explain what is known and what additional information might be needed.
-                                Always include relevant code examples when available.
+                                template="""You are a professional technical documentation assistant. Use the following pieces of context to provide a comprehensive and precise answer to the question.
+                                If the context lacks sufficient information, clearly state what is known and what additional details might be necessary.
+                                Always include pertinent code examples when applicable.
                                 
                                 Context: {context}
                                 Question: {question}
