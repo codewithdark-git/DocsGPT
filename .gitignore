@@ -9,6 +9,8 @@ node_modules/
 package-lock.json
 yarn.lock
 
+generate_roadmap.py
+
 # Testing
 /coverage
 .nyc_output
